@@ -1,0 +1,10 @@
+.r3d {
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.r2d-wrapper {
+  perspective: 1000px;
+	-webkit-perspective: 1000px;
+}
